@@ -1,4 +1,4 @@
 kahvia
 kahvinkeitin
 pulla
-mehutölkki
+mehutölkki 1L
