@@ -1,4 +1,4 @@
-kahvia
+kahvia paketti
 kahvinkeitin
 pulla
 mehutölkki 1L
